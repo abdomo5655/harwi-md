@@ -6,7 +6,7 @@ const chalk = require('chalk')
 // 👈 You Can change this your choice
 global.list = ('List Menu 🧬')
 global.allmenu = ('All Menu 🎉')
-global.script = ('Script 🌈')
+global.script = ('sc 🌈')
 global.owner = ('Owner 🦋')
 global.deploy = ('Deploy 🐥')
 global.project = ('Project 🦋')
